@@ -1,4 +1,4 @@
-package com.github.pureaway.demo
+package io.github.pureaway.demo
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

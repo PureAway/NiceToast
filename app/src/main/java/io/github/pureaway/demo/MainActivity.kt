@@ -1,11 +1,11 @@
-package com.github.pureaway.demo
+package io.github.pureaway.demo
 
 import android.content.Intent
 import android.os.Bundle
 import android.view.LayoutInflater
 import androidx.appcompat.app.AppCompatActivity
-import com.github.pureaway.nicetoast.NiceToast
-import com.github.pureaway.nicetoast.OnClickEvent
+import io.github.pureaway.nicetoast.NiceToast
+import io.github.pureaway.nicetoast.OnClickEvent
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

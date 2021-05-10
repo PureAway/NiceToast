@@ -1,4 +1,4 @@
-package com.github.pureaway.nicetoast
+package io.github.pureaway.nicetoast
 
 interface OnClickEvent {
 

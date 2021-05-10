@@ -1,4 +1,4 @@
-package com.github.pureaway.nicetoast
+package io.github.pureaway.nicetoast
 
 import android.content.Context
 import android.graphics.Color
@@ -17,7 +17,7 @@ import android.widget.TextView
 import androidx.annotation.DrawableRes
 import androidx.annotation.IntDef
 import androidx.annotation.NonNull
-import com.github.pureaway.nicetoast.widget.KeyListenRelativeLayout
+import io.github.pureaway.nicetoast.widget.KeyListenRelativeLayout
 
 class NiceToast private constructor() {
 

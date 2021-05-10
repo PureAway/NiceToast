@@ -1,9 +1,9 @@
-package com.github.pureaway.nicetoast.widget
+package io.github.pureaway.nicetoast.widget
 
 import android.content.Context
 import android.view.KeyEvent
 import android.widget.RelativeLayout
-import com.github.pureaway.nicetoast.OnClickEvent
+import io.github.pureaway.nicetoast.OnClickEvent
 
 class KeyListenRelativeLayout(context: Context?) : RelativeLayout(context) {
 
