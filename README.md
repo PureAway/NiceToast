@@ -16,6 +16,6 @@
 更多使用方式及效果请参考demo中的代码示例
 ## 引入
 ```
-      implementation 'com.zcy:nicetoast:1.1.0'
+      implementation 'io.github.pureaway:nicetoast:1.0.0'
 ```
       
